@@ -1,3 +1,8 @@
+#Guid to the project
+#https://www.udemy.com/course/100-days-of-code/learn/lecture/40678084#overview
+#Hint to solve the problem
+#https://www.udemy.com/course/100-days-of-code/learn/lecture/40678352#overview
+
 from bs4 import BeautifulSoup
 import requests
 from selenium import webdriver
